@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-03-21T11:48:53.260Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.51 Safari/537.36" etag="tzEYDJnFfps8G4RwCvY2" version="17.1.3" type="github">
+<mxfile host="app.diagrams.net" modified="2022-03-21T11:50:20.002Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.51 Safari/537.36" etag="Ylbqh6fXou-8uqFTMpR9" version="17.1.3" type="github">
   <diagram id="u2Ygboj-zfLdWeffpqkM" name="Page-1">
-    <mxGraphModel dx="2585" dy="1373" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1778" dy="944" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -79,7 +79,7 @@
         <mxCell id="QgBrxl4_QCWRq82KucZh-26" value="TopicID" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;spacingLeft=5;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="1080" y="70" width="100" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="QgBrxl4_QCWRq82KucZh-28" value="PK, FK int" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;spacingLeft=5;fontStyle=1" vertex="1" parent="1">
+        <mxCell id="QgBrxl4_QCWRq82KucZh-28" value="PK" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;spacingLeft=5;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="1000" y="70" width="70" height="20" as="geometry" />
         </mxCell>
         <mxCell id="QgBrxl4_QCWRq82KucZh-29" value="string" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;spacingLeft=5;fontStyle=0" vertex="1" parent="1">
